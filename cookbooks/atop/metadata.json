@@ -1,0 +1,32 @@
+{
+  "name": "atop",
+  "description": "Installs atop",
+  "long_description": "",
+  "maintainer": "george",
+  "maintainer_email": "george@georgeredinger.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "ubuntu": [
+
+    ]
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0"
+}

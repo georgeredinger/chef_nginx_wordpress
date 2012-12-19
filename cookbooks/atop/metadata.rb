@@ -1,0 +1,6 @@
+maintainer       "George Redinger"
+maintainer_email "george@georgeredinger.com"
+license          "Apache 2.0"
+description      "Installs atop"
+version          "0.1"
+supports         "ubuntu"
