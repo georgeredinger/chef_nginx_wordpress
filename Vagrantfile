@@ -25,7 +25,8 @@ Vagrant::Config.run do |config|
     chef.add_recipe "mysql::client"
     chef.add_recipe "nginx"
     chef.add_recipe "php-fpm"
-   # You may also specify custom JSON attributes:
+    chef.add_recipe "wordpress"
+  # You may also specify custom JSON attributes:
     chef.json = {
       :mysql => {
         :server_root_password => "mysqlRoot",
